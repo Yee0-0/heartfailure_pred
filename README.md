@@ -1,4 +1,4 @@
-# 🫀 Heart Failure Prediction with Machine Learning
+# Heart Failure Prediction with Machine Learning
 
 Welcome to the **Heart Failure Prediction** project! This repository is all about predicting heart failure using machine learning models, comparing their performance, and learning something cool along the way.  
 
