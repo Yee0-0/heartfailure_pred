@@ -1,1 +1,1 @@
-# newbie_stud
+# Heart Failure Prediction
